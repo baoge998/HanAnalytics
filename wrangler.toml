@@ -11,4 +11,4 @@ CLOUDFLARE_API_TOKEN = 'tYKB_htkb767wRBN-A-sXwNE6cEA-XCl9SWeW4KA'
 # 网站访问密码 (不设置即无需密码访问)
 CLOUDFLARE_WEBSITE_PWD = ''
 # 可统计的白名单 格式：  域名,WebSite|域名,WebSite，多个站点使用|分隔 例如：'api.vvhan.com,Hello-Han-Api|www.vvhan.com,Hello-HanHexoBlog'  (不设置即允许任何统计)
-CLOUDFLARE_WEBSITE_WHITELIST = 'ys.baoge.com.mp|baofeng.ydns.eu'
+CLOUDFLARE_WEBSITE_WHITELIST = 'fx.baoge666.us.kg,hananalytics|am.baoge666.us.kg,am'
